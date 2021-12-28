@@ -9,7 +9,7 @@ background-color: #4B0082;
 display: flex;    
 align-content: center;
 margin-left: 800px;
-width: 400px;
+width: 500px;
 margin-top: 300px;
 border: 2px white solid;
 
@@ -23,3 +23,9 @@ border: 2px white solid;
     padding: 40px;
 
 }
+
+#par ,#inp ,#inpbox
+{
+    text-align: center;
+}
+
