@@ -1,0 +1,25 @@
+body
+{
+    background-color: #FFA500;
+    color: white;
+}
+#container
+{
+background-color: #4B0082;
+display: flex;    
+align-content: center;
+margin-left: 800px;
+width: 400px;
+margin-top: 300px;
+border: 2px white solid;
+
+}
+
+#apps
+{
+
+    
+    align-content: center;
+    padding: 40px;
+
+}
